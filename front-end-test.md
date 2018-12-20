@@ -18,3 +18,11 @@
 
 - Gaste um tempo desenhando a sua solução antes de iniciar a codificação
 - Seja criativo e também resiliente, pense nos corner cases, a API pode ficar indisponível e o portal web precisa lidar com essa indisponibilidade
+
+### Entrega
+
+- A entrega deve ser feita via github.
+
+### Diretivas
+
+- Usar angular 7 e os componentes do material para a construção das telas. https://material.angular.io/
