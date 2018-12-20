@@ -8,12 +8,6 @@
 
 ![tela-teste-front](https://user-images.githubusercontent.com/398909/42768524-2679fad8-88f6-11e8-9872-41eb199d1d79.png)
 
-### Requisitos técnicos
-
-- Javascript ES6 / ES7 (pode utilizar frameworks)
-- Criação de um `README.md` (arquitetura, instruções de uso, entre outros)
-- Pode utilizar fonte de sistema
-
 ### Dicas
 
 - Gaste um tempo desenhando a sua solução antes de iniciar a codificação
@@ -25,4 +19,4 @@
 
 ### Diretivas
 
-- Usar angular 7 e os componentes do material para a construção das telas. https://material.angular.io/
+- Usar Angular 7 e os componentes do material para a construção das telas. https://material.angular.io/
